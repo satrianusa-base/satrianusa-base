@@ -2,6 +2,12 @@
   We are "SATRIA NUSANTARA"
 </h1>
 
+<img
+  src="/wlp.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 <div align="center">
 "Satria Nusantara is a community of developers dedicated to bringing about positive change through technology. With a focus on software development and technological solutions, members of Satria Nusantara come together to create a positive impact in various aspects of life. The community was founded with the vision of improving the quality of life through a deep understanding of technology and its creative application. With a collaborative spirit, Satria Nusantara is committed to being a change agent that helps bring about a better future."
 </div>
