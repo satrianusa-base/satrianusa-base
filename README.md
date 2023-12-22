@@ -25,9 +25,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/satrianusa-base/satrianusa-base/output/snake.svg" alt="Snake animation" />
-
-###
